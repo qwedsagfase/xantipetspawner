@@ -1,2 +1,2 @@
 # xantipetspawner
-adoptmepet
+add chrome://extensions/
