@@ -1,2 +1,0 @@
-# xantipetspawner
-add chrome://extensions/
